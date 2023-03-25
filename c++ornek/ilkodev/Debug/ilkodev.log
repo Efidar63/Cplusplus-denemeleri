@@ -1,0 +1,8 @@
+﻿  ilkodev.cpp
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(12,11): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(12,11): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(12,11): message : 'x' kullanımına bakın
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(16,7): warning C4552: '>>': ifade sonucu kullanılmıyor
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(26,14): error C3863: 'int [x]' dizi türü atanabilir değil
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(27,14): error C3863: 'int [x]' dizi türü atanabilir değil
+C:\Users\Efidar\Desktop\c++ornek\ilkodev\ilkodev.cpp(33,20): warning C4552: '<<': ifade sonucu kullanılmıyor
